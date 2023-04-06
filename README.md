@@ -1,2 +1,2 @@
-# Analise-ARIMA-do-Consumo-do-Varejo
+# Analise-ARIMA-do-Consumo-do-Varejo no MA
 Realiza análise de série temporal do volume de vendas no Maranhão, usando a metodologia ARIMA. Aplica técnica de diferenciação para remover tendências e sazonalidade dos dados, ajusta modelos ARIMA e seleciona o melhor modelo com base nos critérios de informação. Produz gráficos de diagnóstico para avaliar a adequação do modelo selecionado e faz previsões futuras com base no modelo escolhido.
